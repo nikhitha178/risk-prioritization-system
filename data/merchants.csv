@@ -1,0 +1,16 @@
+merchant_id,merchant_name,merchant_category,merchant_location,country,is_active
+MER-0009,MovieTime Cinemas,ENTERTAINMENT,Chennai,India,True
+MER-0014,AutoCare Center,AUTOMOTIVE,Mumbai,India,True
+MER-0013,MetroMart,GROCERY,Delhi,India,True
+MER-0008,OnlineStore India,E_COMMERCE,Bengaluru,India,True
+MER-0011,HomeNeeds Store,HOME,Pune,India,True
+MER-0007,TravelWorld,TRAVEL,Delhi,India,True
+MER-0006,HealthPlus Pharmacy,HEALTHCARE,Hyderabad,India,True
+MER-0015,CloudTech Services,DIGITAL_SERVICES,Bengaluru,India,True
+MER-0004,QuickBite Restaurant,FOOD,Hyderabad,India,True
+MER-0001,FreshMart Supermarket,GROCERY,Hyderabad,India,True
+MER-0005,StyleHub Fashion,FASHION,Mumbai,India,True
+MER-0002,CityFuel Station,FUEL,Hyderabad,India,True
+MER-0012,DigitalPay Services,DIGITAL_SERVICES,Hyderabad,India,True
+MER-0003,TechZone Electronics,ELECTRONICS,Bengaluru,India,True
+MER-0010,EduLearn Services,EDUCATION,Hyderabad,India,True

@@ -1,0 +1,17 @@
+issue_id,issue_type,transaction_id,account_id,transfer_id,severity,description
+ISS-000001,HIGH_VALUE,TXN-2026-00010201,ACC-CUS-000171-01,,HIGH,Synthetic unusually large credit transaction.
+ISS-000002,HIGH_VALUE,TXN-2026-00010202,ACC-CUS-000265-01,,HIGH,Synthetic unusually large credit transaction.
+ISS-000003,HIGH_VALUE,TXN-2026-00010203,ACC-CUS-000293-01,,HIGH,Synthetic unusually large credit transaction.
+ISS-000004,VELOCITY_SPIKE,TXN-2026-00010204,ACC-CUS-000470-01,,MEDIUM,One of five transactions made within five minutes.
+ISS-000005,VELOCITY_SPIKE,TXN-2026-00010205,ACC-CUS-000470-01,,MEDIUM,One of five transactions made within five minutes.
+ISS-000006,VELOCITY_SPIKE,TXN-2026-00010206,ACC-CUS-000470-01,,MEDIUM,One of five transactions made within five minutes.
+ISS-000007,VELOCITY_SPIKE,TXN-2026-00010207,ACC-CUS-000470-01,,MEDIUM,One of five transactions made within five minutes.
+ISS-000008,VELOCITY_SPIKE,TXN-2026-00010208,ACC-CUS-000470-01,,MEDIUM,One of five transactions made within five minutes.
+ISS-000009,NEW_DEVICE,TXN-2026-00010209,ACC-CUS-000304-01,,MEDIUM,Transaction performed using a newly registered untrusted device.
+ISS-000010,CIRCULAR_TRANSFER,TXN-2026-00010210,ACC-CUS-000089-01,TRF-ANOMALY-0001,HIGH,Source debit in a three-account circular transfer.
+ISS-000011,CIRCULAR_TRANSFER,TXN-2026-00010211,ACC-CUS-000416-01,TRF-ANOMALY-0001,HIGH,Destination credit in a three-account circular transfer.
+ISS-000012,CIRCULAR_TRANSFER,TXN-2026-00010212,ACC-CUS-000416-01,TRF-ANOMALY-0002,HIGH,Source debit in a three-account circular transfer.
+ISS-000013,CIRCULAR_TRANSFER,TXN-2026-00010213,ACC-CUS-000250-01,TRF-ANOMALY-0002,HIGH,Destination credit in a three-account circular transfer.
+ISS-000014,CIRCULAR_TRANSFER,TXN-2026-00010214,ACC-CUS-000250-01,TRF-ANOMALY-0003,HIGH,Source debit in a three-account circular transfer.
+ISS-000015,CIRCULAR_TRANSFER,TXN-2026-00010215,ACC-CUS-000089-01,TRF-ANOMALY-0003,HIGH,Destination credit in a three-account circular transfer.
+ISS-000016,DORMANT_REACTIVATION,TXN-2026-00010216,ACC-CUS-000250-02,,HIGH,Transaction shortly after a dormant account was reactivated.

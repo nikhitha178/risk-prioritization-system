@@ -1,0 +1,26 @@
+# Full generated datasets (keep starter dataset)
+data_full/
+data_full_v2/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment secrets
+.env
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+
+# Temporary files
+*.log
+data/transactions_before_cleanup.csv

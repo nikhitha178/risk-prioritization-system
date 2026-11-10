@@ -1,0 +1,47 @@
+alert_id,transaction_id,rule_id,risk_score,risk_level,alert_status,evidence,created_at
+ALT-2026-000001,TXN-2026-00005256,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000913 registered 8:53:12 before the transaction.,2026-09-11T03:00:08+00:00
+ALT-2026-000002,TXN-2026-00005594,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000606 registered 8:29:39 before the transaction.,2026-09-16T23:13:51+00:00
+ALT-2026-000003,TXN-2026-00005622,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000606 registered 17:31:42 before the transaction.,2026-09-17T08:15:54+00:00
+ALT-2026-000004,TXN-2026-00009701,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000832 registered 2:04:59 before the transaction.,2026-10-21T03:14:57+00:00
+ALT-2026-000005,TXN-2026-00009836,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000832 registered 13:01:58 before the transaction.,2026-10-21T14:11:56+00:00
+ALT-2026-000006,TXN-2026-00009848,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000832 registered 13:42:42 before the transaction.,2026-10-21T14:52:40+00:00
+ALT-2026-000007,TXN-2026-00009944,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-0000832 registered 20:48:47 before the transaction.,2026-10-21T21:58:45+00:00
+ALT-2026-000008,TXN-2026-00009974,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 13 successful transactions within 10 minutes.,2026-10-21T23:44:33+00:00
+ALT-2026-000009,TXN-2026-00009975,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 14 successful transactions within 10 minutes.,2026-10-21T23:45:07+00:00
+ALT-2026-000010,TXN-2026-00009976,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 14 successful transactions within 10 minutes.,2026-10-21T23:45:24+00:00
+ALT-2026-000011,TXN-2026-00009977,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 14 successful transactions within 10 minutes.,2026-10-21T23:45:35+00:00
+ALT-2026-000012,TXN-2026-00009978,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 14 successful transactions within 10 minutes.,2026-10-21T23:45:54+00:00
+ALT-2026-000013,TXN-2026-00009980,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 11 successful transactions within 10 minutes.,2026-10-21T23:47:08+00:00
+ALT-2026-000014,TXN-2026-00009981,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 11 successful transactions within 10 minutes.,2026-10-21T23:47:28+00:00
+ALT-2026-000015,TXN-2026-00009982,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 11 successful transactions within 10 minutes.,2026-10-21T23:47:40+00:00
+ALT-2026-000016,TXN-2026-00009983,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:50:18+00:00
+ALT-2026-000017,TXN-2026-00009984,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:50:38+00:00
+ALT-2026-000018,TXN-2026-00009986,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:51:51+00:00
+ALT-2026-000019,TXN-2026-00009987,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:53:07+00:00
+ALT-2026-000020,TXN-2026-00009988,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:53:57+00:00
+ALT-2026-000021,TXN-2026-00009989,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:54:43+00:00
+ALT-2026-000022,TXN-2026-00009990,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:55:05+00:00
+ALT-2026-000023,TXN-2026-00009992,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:56:14+00:00
+ALT-2026-000024,TXN-2026-00009994,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:57:21+00:00
+ALT-2026-000025,TXN-2026-00009995,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:57:34+00:00
+ALT-2026-000026,TXN-2026-00009996,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:58:04+00:00
+ALT-2026-000027,TXN-2026-00009997,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:58:05+00:00
+ALT-2026-000028,TXN-2026-00009998,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:58:26+00:00
+ALT-2026-000029,TXN-2026-00009999,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:58:42+00:00
+ALT-2026-000030,TXN-2026-00010097,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000275-02 performed 15 successful transactions within 10 minutes.,2026-10-21T23:59:11+00:00
+ALT-2026-000031,TXN-2026-00010201,RULE-001,30,HIGH,OPEN,Transaction amount ₹250000.00 exceeds the configured threshold ₹200000.,2026-10-22T00:00:11+00:00
+ALT-2026-000032,TXN-2026-00010202,RULE-001,30,HIGH,OPEN,Transaction amount ₹250000.00 exceeds the configured threshold ₹200000.,2026-10-22T00:01:11+00:00
+ALT-2026-000033,TXN-2026-00010203,RULE-001,30,HIGH,OPEN,Transaction amount ₹250000.00 exceeds the configured threshold ₹200000.,2026-10-22T00:02:11+00:00
+ALT-2026-000034,TXN-2026-00010204,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000470-01 performed 5 successful transactions within 10 minutes.,2026-10-22T00:10:11+00:00
+ALT-2026-000035,TXN-2026-00010205,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000470-01 performed 5 successful transactions within 10 minutes.,2026-10-22T00:11:11+00:00
+ALT-2026-000036,TXN-2026-00010206,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000470-01 performed 5 successful transactions within 10 minutes.,2026-10-22T00:12:11+00:00
+ALT-2026-000037,TXN-2026-00010207,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000470-01 performed 5 successful transactions within 10 minutes.,2026-10-22T00:13:11+00:00
+ALT-2026-000038,TXN-2026-00010208,RULE-002,25,MEDIUM,OPEN,Account ACC-CUS-000470-01 performed 5 successful transactions within 10 minutes.,2026-10-22T00:14:11+00:00
+ALT-2026-000039,TXN-2026-00010209,RULE-003,20,MEDIUM,OPEN,Transaction used untrusted device DEV-ANOMALY-01010 registered 0:00:30 before the transaction.,2026-10-22T00:20:41+00:00
+ALT-2026-000040,TXN-2026-00010210,RULE-004,35,HIGH,OPEN,Source transaction belongs to circular transfer TRF-ANOMALY-0001 involving ACC-CUS-000089-01 and ACC-CUS-000416-01.,2026-10-22T00:30:11+00:00
+ALT-2026-000041,TXN-2026-00010211,RULE-004,35,HIGH,OPEN,Destination transaction belongs to circular transfer TRF-ANOMALY-0001 involving ACC-CUS-000089-01 and ACC-CUS-000416-01.,2026-10-22T00:30:11+00:00
+ALT-2026-000042,TXN-2026-00010212,RULE-004,35,HIGH,OPEN,Source transaction belongs to circular transfer TRF-ANOMALY-0002 involving ACC-CUS-000416-01 and ACC-CUS-000250-01.,2026-10-22T00:31:11+00:00
+ALT-2026-000043,TXN-2026-00010213,RULE-004,35,HIGH,OPEN,Destination transaction belongs to circular transfer TRF-ANOMALY-0002 involving ACC-CUS-000416-01 and ACC-CUS-000250-01.,2026-10-22T00:31:11+00:00
+ALT-2026-000044,TXN-2026-00010214,RULE-004,35,HIGH,OPEN,Source transaction belongs to circular transfer TRF-ANOMALY-0003 involving ACC-CUS-000250-01 and ACC-CUS-000089-01.,2026-10-22T00:32:11+00:00
+ALT-2026-000045,TXN-2026-00010215,RULE-004,35,HIGH,OPEN,Destination transaction belongs to circular transfer TRF-ANOMALY-0003 involving ACC-CUS-000250-01 and ACC-CUS-000089-01.,2026-10-22T00:32:11+00:00
+ALT-2026-000046,TXN-2026-00010216,RULE-005,30,HIGH,OPEN,Transaction occurred within 60 minutes after dormant account reactivation.,2026-10-22T00:40:41+00:00

@@ -1,0 +1,6 @@
+rule_id,rule_name,description,rule_category,risk_score,threshold_value,version,is_active,effective_from,effective_until
+RULE-001,High Value Transaction,Flags transactions exceeding the configured high-value threshold.,HIGH_VALUE,30,200000,1,True,2025-01-01T00:00:00+00:00,
+RULE-002,Transaction Velocity Spike,Flags accounts with five or more transactions within ten minutes.,VELOCITY,25,5,1,True,2025-01-01T00:00:00+00:00,
+RULE-003,Untrusted Device,Flags transactions performed using an untrusted device.,NEW_DEVICE,20,0,1,True,2025-01-01T00:00:00+00:00,
+RULE-004,Circular Fund Transfer,Flags transfers forming a circular movement of funds between accounts.,CIRCULAR_TRANSFER,35,3,1,True,2025-01-01T00:00:00+00:00,
+RULE-005,Dormant Account Reactivation,Flags transactions occurring shortly after a dormant account is reactivated.,DORMANT_REACTIVATION,30,60,1,True,2025-01-01T00:00:00+00:00,
